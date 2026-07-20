@@ -7,3 +7,4 @@ include neurolib/utils/pypet_logging.ini
 
 recursive-include neurolib/data/datasets/hcp *
 recursive-include neurolib/data/datasets/gw *
+include codecov.yml
