@@ -14,3 +14,6 @@ coverage:
         target: auto
         threshold: 5%
     patch: off
+comment:
+  layout: reach,diff,flags,files
+  behavior: default
